@@ -27,4 +27,7 @@ This project analyzes pollution from gas-powered vehicles using statistical meth
 - Insights support cleaner vehicle design
 
 ##  Team
-- [Your Name] – Analysis, Notebook, Report, Presentation
+- Yousuf Idrees
+- Yassin Sameh
+- Omar ElSayed
+- Seif Alaa
