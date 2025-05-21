@@ -24,7 +24,7 @@ This project analyzes pollution from gas-powered vehicles using statistical meth
 - Insights support cleaner vehicle design
 
 ##  Team
-- Yousuf Idrees
-- Yassin Sameh
-- Omar ElSayed
-- Seif Alaa
+- Yousuf Idrees 23-101077
+- Yassin Sameh 23-101192
+- Omar ElSayed 23-101091
+- Seif Alaa 23-101113
