@@ -15,10 +15,7 @@ This project analyzes pollution from gas-powered vehicles using statistical meth
 2. City vs Highway fuel (paired t-test)
 3. Engine Size vs CO₂ (correlation)
 4. Vehicle Class impact (ANOVA)
-5. Transmission effect (t-test)
-6. Fuel Type on fuel usage (ANOVA)
-7. Fuel consumption → CO₂ (regression)
-8. Fuel Type vs Class (Chi²)
+5. Fuel Type vs Class (Chi²)
 
 ##  Key Findings
 - Larger engines = more CO₂
