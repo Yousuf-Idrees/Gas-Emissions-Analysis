@@ -11,11 +11,12 @@ This project analyzes pollution from gas-powered vehicles using statistical meth
 - Filtered to include only gas-powered cars (`Fuel Type` = X or Z).
 
 - ##  Hypothesis Tests
-1. CO₂: 4 vs 6 cylinders (t-test)
-2. City vs Highway fuel (paired t-test)
-3. Engine Size vs CO₂ (correlation)
-4. Vehicle Class impact (ANOVA)
-5. Fuel Type vs Class (Chi²)
+1. CO₂: 4 vs 6 cylinders (Z-test)
+2. Engine Size vs CO₂ (ANOVA)
+3. Vehicle Class impact (ANOVA)
+4. Fuel Type vs Class (Chi-Squared)
+5. City vs Highway fuel (Z-test)
+
 
 ##  Key Findings
 - Larger engines = more CO₂
