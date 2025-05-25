@@ -17,13 +17,6 @@ This project analyzes pollution from gas-powered vehicles using statistical meth
 4. Fuel Type vs Class (Chi-Squared)
 5. City vs Highway fuel (Z-test)
 
-
-##  Key Findings
-- Larger engines = more CO₂
-- Manual cars emit slightly less
-- Vehicle class & transmission affect emissions
-- Insights support cleaner vehicle design
-
 ##  Team
 - Yousuf Idrees 23-101077
 - Yassin Sameh 23-101192
